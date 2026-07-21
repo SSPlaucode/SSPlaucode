@@ -1,3 +1,5 @@
+![banner](banner.svg)
+
 # Shubham Singh Panwar
 
 CSE student at South Asian University, New Delhi. Working on attitude control, robotics, and orbital systems.
