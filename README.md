@@ -14,13 +14,18 @@ Python · C++ · TypeScript · React · FastAPI · PostgreSQL
 - [AETHER](https://github.com/SSPlaucode/aether-acm) — autonomous satellite constellation manager
 
 <!--START_SECTION:iss-->
+**ISS (ZARYA)** — Lat: 2.4°S, Lon: 40.8°W — Alt: 417 km — Vel: 7.66 km/s
+
+<sub>Last sync: 2026-07-21 15:17 UTC · propagated with SGP4 from live Celestrak TLE, same approach as [ORBIS](https://github.com/SSPlaucode/orbis)</sub>
 <!--END_SECTION:iss-->
 
 ## 🛰️ Live orbital data
 *Auto-updated every 6 hours via GitHub Actions*
 
 <!--START_SECTION:iss-->
-Not synced yet — runs on first Action execution.
+**ISS (ZARYA)** — Lat: 2.4°S, Lon: 40.8°W — Alt: 417 km — Vel: 7.66 km/s
+
+<sub>Last sync: 2026-07-21 15:17 UTC · propagated with SGP4 from live Celestrak TLE, same approach as [ORBIS](https://github.com/SSPlaucode/orbis)</sub>
 <!--END_SECTION:iss-->
 
 ## Links
