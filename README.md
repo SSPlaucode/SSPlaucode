@@ -13,5 +13,15 @@ Python · C++ · TypeScript · React · FastAPI · PostgreSQL
 - [ORBIS](https://github.com/SSPlaucode/orbis) — real-time satellite tracker (SGP4, TLE data)
 - [AETHER](https://github.com/SSPlaucode/aether-acm) — autonomous satellite constellation manager
 
+<!--START_SECTION:iss-->
+<!--END_SECTION:iss-->
+
+## 🛰️ Live orbital data
+*Auto-updated every 6 hours via GitHub Actions*
+
+<!--START_SECTION:iss-->
+Not synced yet — runs on first Action execution.
+<!--END_SECTION:iss-->
+
 ## Links
 [Portfolio](https://sspanwar.vercel.app) · [LinkedIn](https://linkedin.com/in/shubham-singh-panwar-34515b387)
