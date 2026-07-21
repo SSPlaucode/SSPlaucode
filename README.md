@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Typing Animation themed for Space/Robotics -->
+<!-- Typing Animation -->
 <img src="https://demolab.com🚀+Welcome+to+my+Orbit!;Exploring+Space+Tech;Building+Autonomous+Robots" alt="Typing SVG" />
 
 <h3>🎓 CSE Student @ South Asian University, New Delhi</h3>
@@ -11,12 +11,7 @@
 ### 🌌 Mission Control (Tech Stack)
 
 <!-- Languages & Robotics Tools -->
-[![Python](https://shields.io)](https://python.org)
-[![C++](https://shields.io++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
-[![Arduino](https://shields.io)](https://arduino.cc)
-[![TypeScript](https://shields.io)](https://typescriptlang.org)
-[![Vercel](https://shields.io)](https://vercel.com)
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="C++" /> <img src="https://shields.io" alt="Arduino" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="Vercel" />
 
 </div>
 
@@ -28,7 +23,8 @@
 - 🌐 **Web Ecosystems:** Building performant frontend platforms to visualize real-time tracking data.
 
 ### 🔗 Connect With Me
-* 🌐 [Visit My Portfolio]([https://vercel.app](https://sspanwar.vercel.app/))
+* 🌐 [Visit My Portfolio](https://sspanwar.vercel.app/)
+
 
 <!--
 **SSPlaucode/SSPlaucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
