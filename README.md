@@ -1,19 +1,13 @@
-<p align="center">
-  <!-- Typing Animation -->
-  <img src="https://demolab.com🚀+Welcome+to+my+Orbit!;Exploring+Space+Tech;Building+Autonomous+Robots" alt="Typing SVG" />
-</p>
+# 🚀 Welcome to my Orbit!
+### CSE Student @ South Asian University, New Delhi
 
-<h3 align="center">🎓 CSE Student @ South Asian University, New Delhi</h3>
-<p align="center">Bridging the gap between software engineering, orbital mechanics, and intelligent machines.</p>
+Bridging the gap between software engineering, orbital mechanics, and intelligent machines.
 
-<p align="center">
-  <!-- Tech Stack Badges -->
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Arduino" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="Vercel" />
-</p>
+---
+
+### 🌌 Mission Control (Tech Stack)
+
+![Python](https://shields.io) ![C++](https://shields.io) ![Arduino](https://shields.io) ![TypeScript](https://shields.io) ![Vercel](https://shields.io)
 
 ---
 
