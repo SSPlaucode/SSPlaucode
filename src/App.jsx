@@ -191,13 +191,12 @@ export default function App() {
           <div className="hero-text">
             <p className="eyebrow">B.TECH CSE · SOUTH ASIAN UNIVERSITY · NEW DELHI</p>
             <h1>
-              Building the systems that keep spacecraft
-              <span className="hero-accent"> pointed the right way.</span>
+              CS student working on attitude control,
+              <span className="hero-accent"> robotics, and orbital systems.</span>
             </h1>
             <p className="hero-sub">
-              Second-year CS student working toward an MS or PhD in aerospace, robotics, and
-              space systems — ETH Zürich, TUM, MIT. Currently building an ADCS simulator in
-              Python; year one of a three-year path to CubeSat hardware.
+              Second-year CS student interested in aerospace, robotics, and space systems.
+              Currently building an ADCS simulator in Python.
             </p>
             <div className="hero-actions">
               <a className="btn btn-primary" href="#missions">See the missions</a>
@@ -214,8 +213,7 @@ export default function App() {
         <section id="about" className="about">
           <p className="section-label">01 // TRAJECTORY</p>
           <p className="about-text">
-            The long-term target is graduate research in aerospace, robotics, or space systems.
-            The near-term plan is a three-year technical roadmap: attitude determination and
+            Working through a three-year technical roadmap: attitude determination and
             control simulation this year, autonomous ground robots with SLAM and ROS2 next,
             CubeSat ADCS hardware after that. Everything else — hackathons, the CampusMove
             internship, coursework — runs alongside that spine, not instead of it.
