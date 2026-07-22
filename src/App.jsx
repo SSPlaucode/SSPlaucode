@@ -92,21 +92,35 @@ function AttitudeIndicator() {
   useEffect(() => {
     const el = ref.current
     if (!el) return
-    const onMove = (e) => {
+
+    const updateFromPoint = (clientX, clientY) => {
       const rect = el.getBoundingClientRect()
-      const x = (e.clientX - rect.left - rect.width / 2) / (rect.width / 2)
-      const y = (e.clientY - rect.top - rect.height / 2) / (rect.height / 2)
+      const x = (clientX - rect.left - rect.width / 2) / (rect.width / 2)
+      const y = (clientY - rect.top - rect.height / 2) / (rect.height / 2)
       setTilt({
         roll: Math.max(-30, Math.min(30, -x * 30)),
         pitch: Math.max(-16, Math.min(16, y * 16)),
       })
     }
+
+    const onMove = (e) => updateFromPoint(e.clientX, e.clientY)
     const onLeave = () => setTilt({ roll: -6, pitch: 3 })
+
+    const onTouchMove = (e) => {
+      const touch = e.touches[0]
+      if (touch) updateFromPoint(touch.clientX, touch.clientY)
+    }
+
     window.addEventListener('mousemove', onMove)
     el.addEventListener('mouseleave', onLeave)
+    el.addEventListener('touchmove', onTouchMove, { passive: true })
+    el.addEventListener('touchend', onLeave)
+
     return () => {
       window.removeEventListener('mousemove', onMove)
       el.removeEventListener('mouseleave', onLeave)
+      el.removeEventListener('touchmove', onTouchMove)
+      el.removeEventListener('touchend', onLeave)
     }
   }, [])
 
