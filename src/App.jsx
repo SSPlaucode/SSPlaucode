@@ -227,10 +227,9 @@ export default function App() {
         <section id="about" className="about">
           <p className="section-label">01 // TRAJECTORY</p>
           <p className="about-text">
-            Working through a three-year technical roadmap: attitude determination and
-            control simulation this year, autonomous ground robots with SLAM and ROS2 next,
-            CubeSat ADCS hardware after that. Everything else — hackathons, the CampusMove
-            internship, coursework — runs alongside that spine, not instead of it.
+            I want to end up doing graduate research in aerospace, robotics, or space systems.
+            It means building from software up, simulation, then autonomous systems,
+            then hardware. The log below tracks that as it happens.
           </p>
         </section>
 
