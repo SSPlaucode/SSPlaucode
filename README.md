@@ -9,7 +9,7 @@ Python · C++ · TypeScript · React · FastAPI · PostgreSQL
 
 ## Currently
 - Building an ADCS (attitude determination & control) simulator in Python
-- Extending [CampusMove](https://campusmove-wd9m.vercel.app), a real-time e-rickshaw queue platform, as part of a summer research internship
+- Worked on [CampusMove](https://campusmove-wd9m.vercel.app), a real-time e-rickshaw queue platform, as part of a summer research internship
 
 ## Projects
 - [ORBIS](https://github.com/SSPlaucode/orbis) — real-time satellite tracker (SGP4, TLE data)
