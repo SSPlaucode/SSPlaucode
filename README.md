@@ -19,9 +19,9 @@ Python · C++ · TypeScript · React · FastAPI · PostgreSQL
 *Auto-updated every 6 hours via GitHub Actions*
 
 <!--START_SECTION:iss-->
-**ISS (ZARYA)** — Lat: 9.2°S, Lon: 20.8°E — Alt: 420 km — Vel: 7.66 km/s
+**ISS (ZARYA)** — Lat: 19.9°N, Lon: 8.1°W — Alt: 417 km — Vel: 7.66 km/s
 
-<sub>Last sync: 2026-11-27 07:54 UTC · propagated with SGP4 from live Celestrak TLE, same approach as [ORBIS](https://github.com/SSPlaucode/orbis)</sub>
+<sub>Last sync: 2026-11-27 20:59 UTC · propagated with SGP4 from live Celestrak TLE, same approach as [ORBIS](https://github.com/SSPlaucode/orbis)</sub>
 <!--END_SECTION:iss-->
 
 ## Links
